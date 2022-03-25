@@ -1,18 +1,20 @@
 # Micro-expression Recognition
-Realtime micro-expression recognition using OpenCV and PyTorch
-
-trained weights: https://drive.google.com/file/d/19N4wP8bRsdR9VRf84ex2YFolUhF8qT6k/view?usp=sharing
+## Realtime micro-expression recognition from scratch using OpenCV and PyTorch
 
 <p align="center">
   <img width="600" height="360" src="https://user-images.githubusercontent.com/80172338/160007938-2a5a5704-f095-40db-bfcc-e41f075a6030.gif">
 </p>
 
-Dataset: [Micro_Expressions](https://www.kaggle.com/datasets/kmirfan/micro-expressions)
+Data Cleaning: https://github.com/k-m-irfan/MER_dataset_cleaning
 
-Notebook (kaggle): [micro_expression_classification](https://www.kaggle.com/code/kmirfan/micro-expression-classification)
+Dataset: https://www.kaggle.com/datasets/kmirfan/micro-expressions
+
+Notebook: https://www.kaggle.com/code/kmirfan/micro-expression-classification
+
+trained weights: https://drive.google.com/file/d/19N4wP8bRsdR9VRf84ex2YFolUhF8qT6k/view?usp=sharing
 
 
-Stock Video Credits:
+## Stock Video Credits:
 
 - PexBell - Free Stock Video Footage - YT 
 - Video by Tima Miroshnichenko from Pexels
