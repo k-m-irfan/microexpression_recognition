@@ -7,13 +7,13 @@ Try it out with a webcam or video using the example code given - '[meRecognition
   <img width="600" height="360" src="https://user-images.githubusercontent.com/80172338/160007938-2a5a5704-f095-40db-bfcc-e41f075a6030.gif">
 </p>
 
-#### Data Cleaning: https://github.com/k-m-irfan/MER_dataset_cleaning
+#### Data Collection and Cleaning: https://github.com/k-m-irfan/MER_dataset_cleaning
 
 #### Dataset: https://www.kaggle.com/datasets/kmirfan/micro-expressions
 
 #### Notebook: https://www.kaggle.com/code/kmirfan/micro-expression-classification
 
-#### Trained weights: https://drive.google.com/file/d/19N4wP8bRsdR9VRf84ex2YFolUhF8qT6k/view?usp=sharing
+#### Trained Weights: https://drive.google.com/file/d/19N4wP8bRsdR9VRf84ex2YFolUhF8qT6k/view?usp=sharing
 
 
 ## Stock Video Credits:
