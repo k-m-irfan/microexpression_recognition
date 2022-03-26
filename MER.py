@@ -67,4 +67,3 @@ def faceBox(frame):#face bounding box
             bBox = face.location_data.relative_bounding_box
             myFaces.append(bBox)
     return myFaces
-            
