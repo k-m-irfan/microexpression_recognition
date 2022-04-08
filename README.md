@@ -13,7 +13,7 @@ Try it out with a webcam or video using the example code given - '[meRecognition
 
 #### Notebook: https://www.kaggle.com/code/kmirfan/micro-expression-classification
 
-#### Trained Weights: https://drive.google.com/file/d/19N4wP8bRsdR9VRf84ex2YFolUhF8qT6k/view?usp=sharing
+#### Weights: https://drive.google.com/file/d/19N4wP8bRsdR9VRf84ex2YFolUhF8qT6k/view?usp=sharing
 
 
 ## Stock Video Credits:
