@@ -57,13 +57,16 @@ def predict_image(image, model, device):
     _, preds  = torch.max(yb, dim=1) # pick class with highest probability
     return classes[preds[0].item()] # return class label
 
+findFace = mp.solutions.face_detection.FaceDetection()
 def faceBox(frame):#face bounding box
-    findFace = mp.solutions.face_detection.FaceDetection()
     frameRGB = cv2.cvtColor(frame,cv2.COLOR_BGR2RGB)
+    height = frame.shape[0]
+    width = frame.shape[1]
     results = findFace.process(frameRGB)
     myFaces = []
     if results.detections != None:
         for face in results.detections:
             bBox = face.location_data.relative_bounding_box
-            myFaces.append(bBox)
+            x,y,w,h = int(bBox.xmin*width),int(bBox.ymin*height),int(bBox.width*width),int(bBox.height*height)
+            myFaces.append((x,y,w,h))
     return myFaces
