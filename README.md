@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=k-m-irfan/microexpression_recognition.visitor-badge)
+
 # Micro-expression Recognition
 ## Realtime micro-expression recognition from scratch using OpenCV and PyTorch
 
